@@ -9,7 +9,7 @@ The project intends to improve the precision and effectiveness of fraud detectio
 USAGE
 
 1) Prepare the dataset:
-Import the repsrective database. For this repository the dataset utilized, was first made available at [Kaggle]([url](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount)),
+Import the repsrective database. For this repository the dataset utilized, was first made available at [Kaggle]((https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount)),
 community of data scientists and machine learners, as well as being used for a research effort by the ULB Machine Learning Group.
 
 2) Train the model: 
